@@ -1,0 +1,18 @@
+[submodule "day1"]
+	path = day1
+	url = ./day1
+[submodule "day2"]
+	path = day2
+	url = ./day2
+[submodule "day3"]
+	path = day3
+	url = ./day3
+[submodule "day4"]
+	path = day4
+	url = ./day4
+[submodule "day5"]
+	path = day5
+	url = ./day5
+[submodule "day6"]
+	path = day6
+	url = ./day6
